@@ -1,6 +1,6 @@
 Class Piglatinizer
  
-  def translate(str)
+  def traslator(str)
     # Vowels to consider
     vowels = ["a", "e", "i", "o", "u"]
     
