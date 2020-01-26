@@ -58,3 +58,5 @@ Class Piglatinizer
     return result.join(" ")
 
 end #End of translate function
+
+end
