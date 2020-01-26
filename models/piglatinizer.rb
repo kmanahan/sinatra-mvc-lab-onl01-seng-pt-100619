@@ -52,11 +52,10 @@ Class Piglatinizer
         
     end #End of words.each
     
-  # end
+  end
     
     #Present the processed words as a single string
     return result.join(" ")
 
-end #End of translate function
-
+end 
 end
