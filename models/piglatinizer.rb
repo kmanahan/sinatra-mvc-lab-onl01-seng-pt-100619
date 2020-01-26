@@ -1,8 +1,8 @@
 class PigLatinizer
-  attr_reader :str
+  attr_reader :words
  
  def initialize 
-   @str = str.downcase
+   @words = words.downcase
  end 
  
   def traslator(str)
