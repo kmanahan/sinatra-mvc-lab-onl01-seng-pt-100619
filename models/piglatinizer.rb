@@ -1,4 +1,4 @@
-class Piglatinizer
+class PigLatinizer
   attr_reader :str
  def initialize 
    @str = str.downcase
