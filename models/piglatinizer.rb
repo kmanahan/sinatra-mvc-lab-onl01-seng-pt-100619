@@ -1,4 +1,5 @@
-def translate(str)
+C
+  def translate(str)
     # Vowels to consider
     vowels = ["a", "e", "i", "o", "u"]
     
