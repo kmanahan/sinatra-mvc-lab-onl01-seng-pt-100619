@@ -1,4 +1,4 @@
-C
+Class Piglatinizer
   def translate(str)
     # Vowels to consider
     vowels = ["a", "e", "i", "o", "u"]
@@ -51,7 +51,7 @@ C
         
     end #End of words.each
     
-    
+  end
     
     #Present the processed words as a single string
     return result.join(" ")
