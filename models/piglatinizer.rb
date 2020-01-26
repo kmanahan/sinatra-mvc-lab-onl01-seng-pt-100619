@@ -60,3 +60,4 @@ Class Piglatinizer
 end #End of translate function
 
 end
+end
