@@ -6,6 +6,8 @@ class App < Sinatra::Base
     erb :user_input 
   end 
   
-  get '/'
+  post '/' do 
+    erb :results
+  end 
   
 end
