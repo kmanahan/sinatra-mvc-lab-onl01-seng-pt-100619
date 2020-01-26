@@ -1,10 +1,4 @@
 Class Piglatinizer
-
-  attr_reader :text
- 
-  def initialize(text)
-    @text = text.downcase
-  end
   
   def translate(str)
     # Vowels to consider
