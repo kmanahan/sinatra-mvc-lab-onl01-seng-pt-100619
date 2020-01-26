@@ -2,7 +2,7 @@ class PigLatinizer
   attr_reader :words
  
  def initialize 
-   @words = words.downcase
+   @words = words
  end 
  
   def traslator(str)
