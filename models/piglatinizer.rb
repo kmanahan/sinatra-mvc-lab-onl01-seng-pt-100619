@@ -6,7 +6,7 @@ class PigLatinizer
  end 
  
  
-  def traslator(str)
+  def word_traslator(str)
     # Vowels to consider
     vowels = ["a", "e", "i", "o", "u"]
     
