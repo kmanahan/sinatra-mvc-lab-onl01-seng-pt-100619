@@ -1,8 +1,5 @@
 class PigLatinizer
-  attr_reader :str
- def initialize 
-   @str = str
- end 
+
  
   def traslator(str)
     # Vowels to consider
