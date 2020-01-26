@@ -59,9 +59,7 @@ class PigLatinizer
     end #End of words.each
     
     
-    
-    #Present the processed words as a single string
-    return result.join(" ")
+   
 
 end #End of translate function
 
