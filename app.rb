@@ -8,6 +8,7 @@ class App < Sinatra::Base
   
   post '/' do 
     erb :results
+    @text
   end 
   
 end
